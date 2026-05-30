@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=abhishekpavithran&label=Profile%20Views&color=70a5fd&style=flat-square">
-    <img src="https://komarev.com/ghpvc/?username=abhishekpavithran&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+  <a href="https://komarev.com/ghpvc/?username=abhishek-475&label=Profile%20Views&color=70a5fd&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=abhishek-475&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://linkedin.com/in/abhishekpavithran">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -101,11 +101,11 @@ const abhishek = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/abhishekpavithran">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=abhishekpavithran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
+  <a href="https://github.com/abhishek-475">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=abhishek-475&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/abhishekpavithran">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpavithran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/abhishek-475">
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-475&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
   </a>
 </div>
 
@@ -114,7 +114,7 @@ const abhishek = {
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekpavithran&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abhishek-475&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
@@ -122,7 +122,7 @@ const abhishek = {
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekpavithran&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-475&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -130,7 +130,7 @@ const abhishek = {
 ## 🏆 Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekpavithran&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishek-475&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" />
 </p>
 
 ---
@@ -187,9 +187,9 @@ const abhishek = {
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| 🔍 **[GitHub Explorer](https://github.com/abhishekpavithran)** | React.js · Tailwind CSS · GitHub REST API · JavaScript | Search GitHub profiles & repos · View followers, following, repo count · Sorting, pagination & reusable components |
-| 🏨 **[Raynott Hotels](https://github.com/abhishekpavithran)** | React.js · Node.js · Express.js · MongoDB · JWT · RBAC | Full-stack hotel booking platform · Admin & Customer dashboards · Secure auth + role-based routing |
-| 👗 **[Thread Style](https://github.com/abhishekpavithran)** | React.js · JavaScript · HTML5 · Tailwind CSS · Context API | Responsive e-commerce frontend · Cart & wishlist functionality · Dynamic filtering with Context API state management |
+| 🔍 **[GitHub Explorer](https://github.com/abhishek-475?tab=repositories)** | React.js · Tailwind CSS · GitHub REST API · JavaScript | Search GitHub profiles & repos · View followers, following, repo count · Sorting, pagination & reusable components |
+| 🏨 **[Raynott Hotels](https://github.com/abhishek-475?tab=repositories)** | React.js · Node.js · Express.js · MongoDB · JWT · RBAC | Full-stack hotel booking platform · Admin & Customer dashboards · Secure auth + role-based routing |
+| 👗 **[Thread Style](https://github.com/abhishek-475?tab=repositories)** | React.js · JavaScript · HTML5 · Tailwind CSS · Context API | Responsive e-commerce frontend · Cart & wishlist functionality · Dynamic filtering with Context API state management |
 
 </div>
 
