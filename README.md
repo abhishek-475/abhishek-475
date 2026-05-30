@@ -130,7 +130,7 @@ const abhishek = {
 ## 🏆 Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek-475&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishek-475&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies" />
 </p>
 
 ---
