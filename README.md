@@ -27,7 +27,8 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
 
-```javascript
+javascript
+
 const abhishek = {
   name        : "Abhishek Pavithran",
   location    : "Bengaluru, Karnataka, India 📍",
@@ -112,4 +113,4 @@ text
 🏗️  System Design    →  Scalability, load balancing, caching strategies
 🔷 Advanced MongoDB  →  Aggregation pipelines, indexing, Atlas
 📫 Let's Connect
-<p align="center"> <a href="https://linkedin.com/in/abhishekpavithran"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="mailto:abhishekpavi6@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> &nbsp; <a href="https://github.com/abhishek-475"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p><p align="center"> <i>"Clean UI. Solid logic. Ship it. 🚀"</i><br/> <b>— Abhishek Pavithran</b> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" /> </p> ```
+<p align="center"> <a href="https://linkedin.com/in/abhishekpavithran"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="mailto:abhishekpavi6@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> &nbsp; <a href="https://github.com/abhishek-475"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p><p align="center"> <i>"Clean UI. Solid logic. Ship it. 🚀"</i><br/> <b>— Abhishek Pavithran</b> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" /> </p>
