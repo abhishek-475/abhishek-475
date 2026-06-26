@@ -43,11 +43,6 @@ const abhishek = {
   databases   : ["MongoDB", "Mongoose", "SQL"],
   tools       : ["Git", "GitHub", "Postman", "Vercel"],
 
-  certifications: [
-    "MERN Stack Developer Internship - Trackpi Pvt Ltd",
-    "MEAN/MERN Full Stack Development - NACTET"
-  ],
-
   currentlyLearning: [
     "TypeScript (Deep Dive)",
     "Next.js",
