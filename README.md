@@ -28,11 +28,11 @@
 ```javascript
 const abhishek = {
   name        : "Abhishek Pavithran",
-  location    : "Kozhikode, Kerala, India 📍",
+  location    : "Bengaluru, Karnataka, India 📍",
   degree      : "B.Tech — Electronics & Communication Engineering",
   college     : "College of Engineering, Cherthala",
 
-  role        : "Full Stack MERN Developer (Seeking Entry-Level Opportunity)",
+  role        : "Associate Software Engineer @ AWACON ELECTRONICS",
   status      : "Open to Work",
 
   languages   : ["JavaScript", "TypeScript", "Java", "Python", "C", "C++"],
@@ -59,9 +59,6 @@ const abhishek = {
     return "Clean UI. Solid logic. Ship it. 🚀";
   }
 };
-```
-
-<br clear="right"/>
 
 ---
 
@@ -135,31 +132,33 @@ const abhishek = {
 
 ## 💼 Work Experience
 
-<details> <summary><b>🏢 Trackpi Pvt Ltd — MERN Stack Developer Intern &nbsp;|&nbsp; Dec 2024 – Mar 2025 &nbsp;|&nbsp; Ernakulam, Kerala</b></summary>
-https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
+<details> <summary><b>🏢 AWACON ELECTRONICS — Associate Software Engineer &nbsp;|&nbsp; Jun 2023 – Present &nbsp;|&nbsp; Ernakulam, Kerala</b></summary>
+https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black
+https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white
+https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
+https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white
 
-🌐 Developed and maintained RESTful APIs using Node.js and Express.js.
+Developed and maintained React.js‑based internal business applications used across multiple operational workflows.
 
-🗃️ Integrated MongoDB databases and implemented full CRUD operations for application modules.
+Built reusable frontend components and modular UI architectures, improving development efficiency and maintainability.
 
-🎨 Built responsive frontend features using React.js and Tailwind CSS.
+Designed responsive user interfaces using React.js, Tailwind CSS, Bootstrap, HTML5, and CSS3.
 
-🔐 Implemented JWT-based authentication and authorization mechanisms.
+Integrated REST APIs for authentication, user management, reporting modules, and real‑time data visualization.
 
-🤝 Collaborated with development teams following Agile methodologies.
+Implemented JWT‑based authentication and Role‑Based Access Control (RBAC) to ensure secure application access.
 
-🐞 Actively participated in debugging, testing, and deployment activities.
+Utilized React Hooks and Context API for efficient state management and improved application scalability.
 
-</details><details> <summary><b>📚 Luminar Technolab — MEAN / MERN Full Stack Trainee &nbsp;|&nbsp; May 2024 – Dec 2024 &nbsp;|&nbsp; Calicut, Kerala</b></summary>
-https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white
+Optimized frontend performance and resolved browser compatibility issues to enhance user experience.
 
-🧩 Completed intensive training in React.js, Angular, Node.js, Express.js, and MongoDB.
+Managed source code using Git and GitHub following structured development workflows.
 
-🏗️ Developed full-stack web applications using the MERN and MEAN stacks.
+Participated in Agile/Scrum ceremonies including sprint planning, code reviews, task estimation, and deployment activities.
 
-🔌 Implemented REST APIs, JWT authentication, routing, and database integration.
-
-🛠️ Worked with Git, GitHub, Postman, and Agile development practices.
+Collaborated with backend developers, business stakeholders, and UI/UX teams to deliver production‑ready applications.
 
 </details>
 
