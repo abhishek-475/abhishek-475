@@ -78,32 +78,6 @@
 
 ---
 
-### 🧩 Featured Projects
-
-#### 🏨 [Raynott Hotels – Full Stack Hotel Booking Platform](#)
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
-- Complete hotel booking platform with secure user & admin authentication
-- JWT authentication and role-based access control for protected routes
-- Booking management with room selection and date-based availability checking
-- REST APIs integrated with MongoDB for users, rooms, and bookings
-
-#### 🔍 [GitHub Explorer – Interactive GitHub Profile Browser](#)
-`React.js` `GitHub REST API` `JavaScript` `Tailwind CSS`
-- Responsive GitHub profile and repository explorer
-- Integrated GitHub REST API for profiles, repositories, and statistics
-- Search, filtering, sorting, and pagination features
-- Reusable React components following clean coding practices
-
-#### 👕 [Thread Style – E-Commerce Fashion Platform](#)
-`React.js` `JavaScript` `Tailwind CSS` `Context API`
-- Responsive fashion e-commerce frontend for multiple device sizes
-- Shopping cart functionality using Context API for state management
-- Category-based product browsing and filtering
-- Checkout workflow with form validation and responsive layouts
-
-> 🔗 Replace the `#` links above with your Live Demo and GitHub Repository URLs for each project.
-
----
 
 ### 🎓 Education & Certifications
 
