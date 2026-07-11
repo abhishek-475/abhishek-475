@@ -82,9 +82,6 @@
 ### 🎓 Education & Certifications
 
 - **B.Tech, Electronics and Communication Engineering** — College of Engineering, Cherthala (2016 – 2020)
-- **MERN/MEAN Full Stack Development Program** — Luminar Technolab, Calicut (May 2024 – Dec 2024)
-- **MERN Stack Developer Internship Certification** — Trackpi Pvt Ltd (2025)
-- **MEAN/MERN Full Stack Development Certification** — NACTET (2024)
 
 ---
 
