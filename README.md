@@ -1,25 +1,29 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pavithran</h1>
-<h3 align="center">Full Stack MERN Developer | React.js • Node.js • MongoDB</h3>
+<h3 align="center">React.js Developer | MERN Stack Engineer | Frontend Enthusiast</h3>
 
 <p align="center">
-  📍 Kozhikode, Kerala, India &nbsp;|&nbsp; 📧 abhishekpavi6@gmail.com &nbsp;|&nbsp; 📱 +91 7356629346
+  📍 Vadakara, Kerala, India &nbsp;|&nbsp; 📧 abhishekpavif6@gmail.com &nbsp;|&nbsp; 📱 +91 7356629346
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abhishekpavithran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/abhishek-475"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Full Stack MERN Developer with hands-on experience building scalable web applications
-- 💼 Completed a 3-month **MERN Stack Developer Internship** at **Trackpi Pvt Ltd**, building production-ready APIs and responsive frontends
-- 🌱 Currently exploring **TypeScript** and **Docker**
-- 🔭 Building full-stack projects with JWT authentication, MongoDB integration, and REST APIs
-- 💬 Ask me about React.js, Node.js, Express.js, MongoDB, and REST API design
-- 🎯 Seeking an **entry-level Full Stack Developer** role to grow and contribute
+- 👨‍💻 **React.js Developer** with **2+ years** of experience building production‑ready, scalable web applications using the MERN stack.
+- 🏢 Currently working as an **Associate Software Engineer (React.js Developer)** at **AWACON ELECTRONICS**, Kerala.
+- ⚡ Passionate about **clean code**, **performance optimisation**, and delivering **user‑centric solutions** in Agile teams.
+- 🛠️ Proficient in modern JavaScript (ES6+), React Hooks, Context API, Tailwind CSS, Node.js, Express, MongoDB, and JWT‑based authentication.
+- 🚀 Achieved **25%+ improvement** in frontend load times through code splitting, memoization, and performance profiling.
+- 🧩 Designed and maintained a **reusable component library** adopted across the frontend codebase, reducing time‑to‑build for new features.
+- 🔐 Implemented **JWT authentication** and **Role‑Based Access Control (RBAC)** with granular route‑level permissions.
+- 🌱 Currently exploring **TypeScript** and **Docker**.
+- 💬 Ask me about React.js, Node.js, Express.js, MongoDB, REST APIs, and frontend performance.
+- 🎯 Open to **full‑stack / frontend developer** roles where I can grow and contribute.
 
 ---
 
@@ -59,15 +63,18 @@
 </p>
 
 ---
-
 ### 💼 Professional Experience
 
-**MERN Stack Developer Intern** — Trackpi Pvt Ltd, Ernakulam, Kerala &nbsp;·&nbsp; *Dec 2024 – Mar 2025*
-- Developed and maintained RESTful APIs using Node.js and Express.js with JWT-based authentication
-- Built responsive React.js user interfaces integrated with backend services and MongoDB
-- Implemented role-based access control (RBAC) for secure user and admin management
-- Optimized database queries and improved application performance
-- Tested APIs using Postman, resolved bugs, and improved application stability
+**Associate Software Engineer (React.js Developer)**  
+**AWACON ELECTRONICS** — Kerala, India &nbsp;·&nbsp; *Apr 2024 – Present*
+
+- Developed responsive, production‑grade user interfaces using React.js, Tailwind CSS, and Bootstrap, supporting core internal and customer‑facing applications.
+- Integrated REST APIs to power authentication flows, reporting dashboards, and data visualisation features.
+- Implemented JWT‑based authentication and Role‑Based Access Control (RBAC), enforcing granular route‑level permissions across the application.
+- Improved frontend load times by **25%+** through code splitting, memoization, and targeted performance profiling.
+- Managed complex global state using React Hooks and Context API, removing prop‑drilling across deeply nested component trees.
+- Designed and maintained a reusable component library adopted across the frontend codebase, reducing time‑to‑build for new features.
+- Actively participated in Agile/Scrum ceremonies – sprint planning, daily standups, and retrospectives – and conducted peer code reviews to maintain code quality.
 
 ---
 
