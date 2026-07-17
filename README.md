@@ -49,27 +49,9 @@
 </p>
 
 ---
-### 💼 Professional Experience
-
-**Associate Software Engineer (React.js Developer)**  
-**AWACON ELECTRONICS** — Kerala, India &nbsp;·&nbsp; *Apr 2024 – Present*
-
-- Developed responsive, production‑grade user interfaces using React.js, Tailwind CSS, and Bootstrap, supporting core internal and customer‑facing applications.
-- Integrated REST APIs to power authentication flows, reporting dashboards, and data visualisation features.
-- Implemented JWT‑based authentication and Role‑Based Access Control (RBAC), enforcing granular route‑level permissions across the application.
-- Improved frontend load times by **25%+** through code splitting, memoization, and targeted performance profiling.
-- Managed complex global state using React Hooks and Context API, removing prop‑drilling across deeply nested component trees.
-- Designed and maintained a reusable component library adopted across the frontend codebase, reducing time‑to‑build for new features.
-- Actively participated in Agile/Scrum ceremonies – sprint planning, daily standups, and retrospectives – and conducted peer code reviews to maintain code quality.
-
----
 
 
-### 🎓 Education & Certifications
 
-- **B.Tech, Electronics and Communication Engineering** — College of Engineering, Cherthala (2016 – 2020)
-
----
 
 
 
