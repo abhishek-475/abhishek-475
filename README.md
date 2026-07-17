@@ -12,20 +12,6 @@
 
 ---
 
-### 🚀 About Me
-
-- 👨‍💻 **React.js Developer** with **2+ years** of experience building production‑ready, scalable web applications using the MERN stack.
-- 🏢 Currently working as an **Associate Software Engineer (React.js Developer)** at **AWACON ELECTRONICS**, Kerala.
-- ⚡ Passionate about **clean code**, **performance optimisation**, and delivering **user‑centric solutions** in Agile teams.
-- 🛠️ Proficient in modern JavaScript (ES6+), React Hooks, Context API, Tailwind CSS, Node.js, Express, MongoDB, and JWT‑based authentication.
-- 🚀 Achieved **25%+ improvement** in frontend load times through code splitting, memoization, and performance profiling.
-- 🧩 Designed and maintained a **reusable component library** adopted across the frontend codebase, reducing time‑to‑build for new features.
-- 🔐 Implemented **JWT authentication** and **Role‑Based Access Control (RBAC)** with granular route‑level permissions.
-- 🌱 Currently exploring **TypeScript** and **Docker**.
-- 💬 Ask me about React.js, Node.js, Express.js, MongoDB, REST APIs, and frontend performance.
-- 🎯 Open to **full‑stack / frontend developer** roles where I can grow and contribute.
-
----
 
 ### 🛠️ Tech Stack
 
